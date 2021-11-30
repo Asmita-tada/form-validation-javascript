@@ -1,0 +1,20 @@
+.mail {
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 400px;
+    padding: 10px;
+    border: 2px solid black;    
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-weight: 200;
+}
+#message{
+    text-align: justify;
+}
